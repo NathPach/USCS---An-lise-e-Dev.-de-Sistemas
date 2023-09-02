@@ -1,5 +1,5 @@
 {
-// 14. Escrever um programa fonte na Linguagem C# que efetue a leitura de uma temperatura medida em graus Celsius e faça a conversão em graus Fahrenheit.
+// 14. Escrever um programa na Linguagem C# que efetue a leitura de uma temperatura medida em graus Celsius e faça a conversão em graus Fahrenheit.
 
 double C, F;
 
