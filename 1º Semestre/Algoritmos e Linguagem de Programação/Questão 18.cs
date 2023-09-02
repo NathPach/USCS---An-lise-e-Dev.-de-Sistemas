@@ -1,6 +1,6 @@
 {
 
-// 18. Escrever um programa fonte na Linguagem C# que efetue a leitura de dois valores numéricos inteiros e apresente o resultado da diferença do maior valor pelo menor.
+// 18. Escrever um programa na Linguagem C# que efetue a leitura de dois valores numéricos inteiros e apresente o resultado da diferença do maior valor pelo menor.
 
 int valor1, valor2, dif;
 
