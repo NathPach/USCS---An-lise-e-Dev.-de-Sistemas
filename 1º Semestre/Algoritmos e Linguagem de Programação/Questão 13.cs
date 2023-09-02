@@ -1,5 +1,5 @@
 {
-// 13. Escrever um programa fonte na Linguagem C# que receba um número e diga se o número entrado está ou não no intervalo entre 100 e 200.
+// 13. Escrever um programa na Linguagem C# que receba um número e diga se o número entrado está ou não no intervalo entre 100 e 200.
 
 int n;
 
