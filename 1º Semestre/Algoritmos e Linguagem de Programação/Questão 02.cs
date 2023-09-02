@@ -1,5 +1,5 @@
 {
-// 2. Escrever um programa fonte na Linguagem C# que exiba a soma, a subtração, a multiplicação e a divisão de dois números inteiros fornecidos pelo usuário.
+// 2. Escrever um programa na Linguagem C# que exiba a soma, a subtração, a multiplicação e a divisão de dois números inteiros fornecidos pelo usuário.
 
 double valor1, valor2, soma, sub, multi, div;
 Console.WriteLine("Entre abaixo com o pimeiro valor: ");
