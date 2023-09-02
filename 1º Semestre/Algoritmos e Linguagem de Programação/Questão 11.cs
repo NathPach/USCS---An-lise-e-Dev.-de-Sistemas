@@ -1,5 +1,5 @@
 {
-// 11. Escrever um programa fonte na Linguagem C# que receba um número inteiro do usuário e diga se ele é par ou impar.
+// 11. Escrever um programa na Linguagem C# que receba um número inteiro do usuário e diga se ele é par ou impar.
             
 int valor, restodiv;
 
