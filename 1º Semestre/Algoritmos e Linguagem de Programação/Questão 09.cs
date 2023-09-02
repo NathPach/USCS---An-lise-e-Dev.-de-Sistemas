@@ -1,5 +1,5 @@
 {
-// 9. Escrever um programa fonte na Linguagem C# que receba dois números inteiros e informe qual deles é o menor.
+// 9. Escrever um programa na Linguagem C# que receba dois números inteiros e informe qual deles é o menor.
 
 int valor1, valor2;
 
