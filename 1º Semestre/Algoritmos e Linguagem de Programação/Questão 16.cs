@@ -1,5 +1,5 @@
 {
-// 16. Escrever um programa fonte na Linguagem C# que efetue a leitura de três valores numéricos inteiros (variáveis A, B e C)
+// 16. Escrever um programa na Linguagem C# que efetue a leitura de três valores numéricos inteiros (variáveis A, B e C)
 // e apresente os valores entrados em ordem crescente.
 
 int valor1, valor2, valor3;
