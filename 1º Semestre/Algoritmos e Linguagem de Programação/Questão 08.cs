@@ -1,5 +1,5 @@
 {
-// 8. Escrever um programa fonte na Linguagem C# que informe a idade de um jogador de futebol e exiba a sua categoria,
+// 8. Escrever um programa na Linguagem C# que informe a idade de um jogador de futebol e exiba a sua categoria,
 // considerando as seguintes regras: infantil (até 13 anos), juvenil (até 17 anos) ou sênior (acima de 17 anos).
 
 int idade;
