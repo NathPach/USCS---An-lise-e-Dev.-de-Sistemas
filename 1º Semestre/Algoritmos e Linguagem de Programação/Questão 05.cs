@@ -1,5 +1,5 @@
 {
-// 5. Escrever um programa fonte na Linguagem C# que leia dois valores inteiros e informe se eles são iguais.
+// 5. Escrever um programa na Linguagem C# que leia dois valores inteiros e informe se eles são iguais.
 // Caso sejam diferentes, o programa deverá informar o maior dos valores entrados.
 
 int valor1, valor2;
