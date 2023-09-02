@@ -1,4 +1,4 @@
-// 10. Escrever um programa fonte na Linguagem C# que calcule a média aritmética de três números entrados pelo usuário.
+// 10. Escrever um programa na Linguagem C# que calcule a média aritmética de três números entrados pelo usuário.
 
 double valor1, valor2, valor3, media;
 
