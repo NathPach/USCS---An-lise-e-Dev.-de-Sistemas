@@ -2,7 +2,7 @@
             Console.WriteLine("------------- Início do Programa -------------");
             int i, valor;
             int[] array = new int[10];
-            Console.WriteLine("Entre com 10 valores numéricos inteiros: ");
+            Console.WriteLine("Entre com 10 números inteiros: ");
 
             for (i=0; i < 10; i++)
                 array[i] = int.Parse(Console.ReadLine());
