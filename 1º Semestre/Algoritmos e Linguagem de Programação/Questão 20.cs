@@ -1,5 +1,5 @@
 {
-// 20.  Escrever um programa fonte na Linguagem C# que exiba ao usuário os números de 100 a 1, usando os comandos while ou for de repetição.
+// 20.  Escrever um programa na Linguagem C# que exiba ao usuário os números de 100 a 1, usando os comandos while ou for de repetição.
 
 int x;
 x = 100;
