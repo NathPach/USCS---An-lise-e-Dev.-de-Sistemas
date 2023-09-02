@@ -1,5 +1,5 @@
 {
-// 12. Escrever um programa fonte na Linguagem C# que leia o nome de um aluno e as notas que ele obteve nas três provas do semestre.
+// 12. Escrever um programa na Linguagem C# que leia o nome de um aluno e as notas que ele obteve nas três provas do semestre.
 // Ao final, o programa deverá informar o nome do aluno e a sua média aritmética.
 
 string nome;
