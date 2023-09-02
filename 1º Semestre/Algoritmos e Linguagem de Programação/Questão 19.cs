@@ -1,5 +1,5 @@
 {
-// 19. Escrever um programa fonte na Linguagem C# que exiba ao usuário os números de 1 a 10, usando os comandos while ou for de repetição.
+// 19. Escrever um programa na Linguagem C# que exiba ao usuário os números de 1 a 10, usando os comandos while ou for de repetição.
             
 int x;
 x = 1;
