@@ -1,5 +1,5 @@
 {
-// 4. Escrever um programa fonte na Linguagem C# que leia o nome de um aluno e as notas das três provas que ele obteve no semestre, com pesos 2, 4 e 6.
+// 4. Escrever um programa na Linguagem C# que leia o nome de um aluno e as notas das três provas que ele obteve no semestre, com pesos 2, 4 e 6.
 // Ao final, o programa deverá exibir informar o nome do aluno e a sua média ponderada.
 
 string nome;
